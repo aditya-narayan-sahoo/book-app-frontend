@@ -1,5 +1,5 @@
 const getbaseUrl = () => {
-  return "http://localhost:7000";
+  return "https://book-app-backend-liard.vercel.app";
 };
 
 export default getbaseUrl;
